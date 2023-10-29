@@ -1,12 +1,12 @@
 
-const {create app} = Vue
+const { createApp } = Vue
 
-create app ({
+createApp ({
     
     data(){
         
         return{
-            
+            message: 'Ciao mi chiamo Luca Masera'
         }
     }
 
